@@ -8,3 +8,5 @@ Login system :
 (if you want login in the websites) :
 user : admin
 pass : admin
+
+(supported in php 5)
