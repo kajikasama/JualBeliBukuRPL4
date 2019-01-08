@@ -10,3 +10,5 @@ user : admin
 pass : admin
 
 (supported in php 5)
+
+Coming soon in php 7 ..
