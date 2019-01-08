@@ -9,6 +9,6 @@ Login system :
 user : admin
 pass : admin
 
-(supported in php 5)
+(just support in php 5)
 
 Coming soon in php 7 ..
