@@ -1,0 +1,17 @@
+id_activity 1 = untuk contact us untuk mengajukan pertanyaan
+id_activity 2 = untuk barang belanjaan
+id_activity 3 = untuk balasan dari admin kepada client
+
+#00E676 green accent-3
+
+<div class="row">
+        <h3 class="light center blue-text darken-2">Halaman Master Data RPL 4</h3>
+      </div>
+      <div class="row">
+          <div class="col s12 m12">
+            <h6>
+              <a href="home.php">Home</a> /
+              <a href="catalog-buku.php">Catalog Buku</a>
+            </h6>
+          </div>
+        </div>
